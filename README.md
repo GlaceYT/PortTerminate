@@ -1,5 +1,9 @@
 <div align="center">
-  <h1>🚀 Port Terminate</h1>
+  <img src="https://i.ibb.co/GfTxbJfC/7-edited.png" alt="Banner" width="100%"/>
+</div>
+
+<div align="center">
+  <h1>Port Terminate</h1>
   <p><b>A beautiful GUI to easily terminate ports without killing system processes.</b></p>
   <br>
   <img src="img/preview.png" alt="Port Terminate Preview" width="100%" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.5);">
@@ -22,7 +26,6 @@ Ever encountered the dreaded `EADDRINUSE: address already in use` error while co
 
 ## ✨ Key Features
 
-- **🎨 Beautiful & Modern UI:** A stunning, dark-themed responsive interface with smooth micro-animations.
 - **🛡️ System Protection:** Smartly distinguishes between developer apps (which you can kill) and essential system processes (which are protected from accidental termination).
 - **⚡ Real-Time Port Scanning:** Automatically and continuously scans your network for active ports in the background.
 - **🔍 Quick Search & Filter:** Instantly hunt down the exact port or process name you want to terminate.

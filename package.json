@@ -1,0 +1,28 @@
+{
+    "name": "port-blocker",
+    "version": "1.0.0",
+    "description": "A beautiful GUI to easily terminate ports without killing system processes.",
+    "main": "main.js",
+    "scripts": {
+        "start": "electron .",
+        "dev": "electron .",
+        "build": "electron-builder -w"
+    },
+    "dependencies": {},
+    "devDependencies": {
+        "electron": "^33.0.0",
+        "electron-builder": "^24.13.3"
+    },
+    "build": {
+        "appId": "com.portblocker.app",
+        "win": {
+            "target": "nsis"
+        },
+        "nsis": {
+            "oneClick": false,
+            "allowToChangeInstallationDirectory": true,
+            "createDesktopShortcut": true,
+            "createStartMenuShortcut": true
+        }
+    }
+}

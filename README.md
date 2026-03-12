@@ -11,15 +11,6 @@
 
 <br>
 
-<div align="center">
-
-  ![Downloads](https://img.shields.io/github/downloads/GlaceYT/PortTerminate/total?style=for-the-badge&color=2563eb)
-  ![Stars](https://img.shields.io/github/stars/GlaceYT/PortTerminate?style=for-the-badge&color=eab308)
-  ![Issues](https://img.shields.io/github/issues/GlaceYT/PortTerminate?style=for-the-badge&color=ef4444)
-  ![License](https://img.shields.io/github/license/GlaceYT/PortTerminate?style=for-the-badge&color=10b981)
-
-</div>
-
 ## 🌟 Why Port Terminate?
 
 Ever encountered the dreaded `EADDRINUSE: address already in use` error while coding? **Port Terminate** (also known as Port Blocker Pro) gives you a sleek, lightning-fast GUI to view and terminate processes that are holding your precious development ports hostage—all while safely protecting critical system services!
